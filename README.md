@@ -8,6 +8,7 @@ Repositório contendo resenhas críticas de artigos clássicos sobre Arquitetura
 |---|--------|---------|-----|
 | 01 | [Big Ball of Mud](./artigo-01-big-ball-of-mud/) | Foote & Yoder | 1997 |
 | 02 | [Microservices](./artigo-02-microservices/) | Fowler & Lewis | 2014 |
+| 03 | [Segurança do ecossistema MCP](./artigo-03-mcp-seguranca/) | — | — |
 
 ## Estrutura
 
