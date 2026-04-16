@@ -60,8 +60,3 @@ Além disso, o monitoramento em tempo de execução é destacado como uma forma 
 
 Por fim, o artigo conclui que, embora o Model Context Protocol represente um avanço importante na evolução das aplicações de inteligência artificial, sua adoção deve ser acompanhada por uma forte preocupação com segurança. A integração de LLMs com ferramentas externas amplia consideravelmente o potencial desses sistemas, mas também exige uma abordagem cuidadosa para evitar vulnerabilidades críticas. Dessa forma, o desenvolvimento de padrões, boas práticas e mecanismos de defesa será fundamental para garantir que o MCP possa ser utilizado de forma segura, confiável e eficiente em diferentes contextos.
 
----
-
-## Referência sugerida (ajuste conforme a fonte do seu curso)
-
-Inclua aqui a citação bibliográfica completa do artigo original (autores, título, veículo, ano) assim que tiver os dados oficiais.
