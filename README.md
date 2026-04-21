@@ -13,6 +13,7 @@ Repositório contendo resenhas críticas de artigos e temas sobre arquitetura de
 | 05 | [Padrão Facade (Fachada)](./artigo-05-facade/) | Gamma et al. (GoF) | 1994 |
 | 06 | [Segurança do ecossistema MCP](./artigo-06-mcp-seguranca/) | — | — |
 | 07 | [Arquitetura de Software: um Roadmap](./artigo-07-garlan-roadmap/) | David Garlan | 2000 |
+| 08 | [Arquitetura Hexagonal (Ports & Adapters)](./artigo-08-arquitetura-hexagonal/) | Alistair Cockburn | 2005 |
 
 ## Estrutura
 
