@@ -1,6 +1,6 @@
-# Resenhas - Arquitetura de Software
+# Resenhas — Arquitetura de Software
 
-Repositório contendo resenhas críticas de artigos clássicos sobre Arquitetura de Software.
+Repositório contendo resenhas críticas de artigos e temas sobre arquitetura de software.
 
 ## Artigos
 
@@ -8,13 +8,16 @@ Repositório contendo resenhas críticas de artigos clássicos sobre Arquitetura
 |---|--------|---------|-----|
 | 01 | [Big Ball of Mud](./artigo-01-big-ball-of-mud/) | Foote & Yoder | 1997 |
 | 02 | [Microservices](./artigo-02-microservices/) | Fowler & Lewis | 2014 |
-| 03 | [Segurança do ecossistema MCP](./artigo-03-mcp-seguranca/) | — | — |
+| 06 | [Segurança do ecossistema MCP](./artigo-06-mcp-seguranca/) | — | — |
+| 07 | [Arquitetura de Software: um Roadmap](./artigo-07-garlan-roadmap/) | David Garlan | 2000 |
 
 ## Estrutura
 
-Cada pasta de artigo contém:
-- `Resenha_*.md` -Resenha crítica completa
-- `Resenha_*.pdf` - Resenha crítica completa
+Cada pasta de artigo costuma conter:
+
+- `Resenha_*.md` — resenha crítica em Markdown
+- `Resenha_*.pdf` — versão em PDF (quando existir)
+- `artigo-*.pdf` ou material de apoio (quando existir)
 
 ---
 
