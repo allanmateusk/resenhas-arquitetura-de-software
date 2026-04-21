@@ -15,6 +15,7 @@ Repositório contendo resenhas críticas de artigos e temas sobre arquitetura de
 | 07 | [Arquitetura de Software: um Roadmap](./artigo-07-garlan-roadmap/) | David Garlan | 2000 |
 | 08 | [Arquitetura Hexagonal (Ports & Adapters)](./artigo-08-arquitetura-hexagonal/) | Alistair Cockburn | 2005 |
 | 09 | [OCL — guia definitivo](./artigo-09-ocl/) | Jordi Cabot & Martin Gogolla | — |
+| 10 | [Design by Contract](./artigo-10-design-by-contract/) | Bertrand Meyer | — |
 
 ## Estrutura
 
