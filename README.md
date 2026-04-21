@@ -14,6 +14,7 @@ Repositório contendo resenhas críticas de artigos e temas sobre arquitetura de
 | 06 | [Segurança do ecossistema MCP](./artigo-06-mcp-seguranca/) | — | — |
 | 07 | [Arquitetura de Software: um Roadmap](./artigo-07-garlan-roadmap/) | David Garlan | 2000 |
 | 08 | [Arquitetura Hexagonal (Ports & Adapters)](./artigo-08-arquitetura-hexagonal/) | Alistair Cockburn | 2005 |
+| 09 | [OCL — guia definitivo](./artigo-09-ocl/) | Jordi Cabot & Martin Gogolla | — |
 
 ## Estrutura
 
